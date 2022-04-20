@@ -1,0 +1,14 @@
+/* Main */
+.main {
+    margin: auto;
+    margin-top: 5%;
+    width: 50%;
+  }
+  
+body{
+    background-color: rgb(233, 238, 240);
+}
+  /* Ttile*/
+  .title {
+    text-align: center;
+  }
